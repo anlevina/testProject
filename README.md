@@ -6,7 +6,7 @@ This is a simple CRUD application on Java. The main framework is Spring. Applica
 
 One can:
 - Register on site. App has two roles - users and admins;
-- Users can add products with description, price and picture; search products by prodict name;
+- Users can add products with description, price and picture; search products by product name;
 - Administrator has specified panel, where all users are displayed and ban possibility is avaliable.
 
 The app has only nominal frontend part. 
